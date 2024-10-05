@@ -16,6 +16,7 @@
 Bitcoin price
 ![image](https://github.com/user-attachments/assets/189b54e0-18eb-440c-bfd5-e8565df3fd6b)
 Msft Stock price 
+
 ![image](https://github.com/user-attachments/assets/5e6cbbec-07f9-4cb6-8c99-fb7a59c98c6d)
 
 
